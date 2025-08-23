@@ -8,7 +8,7 @@ const Teachers = () => {
       name: 'Imron Habib, S.Ag., S.Pd',
       position: 'Kepala Sekolah',
       subject: 'Manajemen Sekolah',
-      education: 'S1 Pendidikan Dasar',
+      education: 'S1 Pendidikan',
       
       image: '/1.png',
       description: 'Memimpin dengan visi pendidikan yang holistik dan berfokus pada pengembangan karakter siswa.'
