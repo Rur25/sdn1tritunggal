@@ -25,7 +25,7 @@ const Header: React.FC<HeaderProps> = ({ activeSection, setActiveSection, scroll
     }`}>
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="flex items-center justify-between h-20">
-          {}
+          {/logo/}
           <div className="flex items-center space-x-3">
             <div className="bg-gradient-to-r from-blue-500 to-blue-600 p-2 rounded-xl">
               
