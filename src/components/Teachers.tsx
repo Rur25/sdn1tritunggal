@@ -5,7 +5,7 @@ const Teachers = () => {
   const teachers = [
     {
       id: 1,
-      name: 'Imron Habib, S.Ag., S.Pd',
+      name: 'Bpk Imron Habib, S.Ag., S.Pd',
       position: 'Kepala Sekolah',
       subject: 'Manajemen Sekolah',
       education: 'S1 Pendidikan',
