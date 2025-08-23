@@ -68,7 +68,7 @@ const Teachers = () => {
       name: 'Ibu Ruhyati Ningsih, S.Pd',
       position: 'Guru Seni Budaya',
       subject: 'Seni Budaya',
-      education: 'S1 Pendidikan Seni Rupa',
+      education: 'S1 Pendidikan',
      
       image: 'Ruhyati Ningsih.jpg',
       description: 'Menggali dan mengembangkan bakat seni siswa melalui berbagai medium dan teknik kreatif.'
