@@ -59,9 +59,7 @@ const Teachers = () => {
       position: 'Guru Olahraga',
       subject: 'Pendidikan Jasmani',
       education: 'S1 Pendidikan Jasmani',
-      experience: '7 tahun',
-      achievements: ['Pelatih Sepak Bola Terbaik', 'Sertifikat Instruktur Renang'],
-      email: 'rio.prasetyo@sd1tritunggal.sch.id',
+     
       image: 'https://images.pexels.com/photos/8471808/pexels-photo-8471808.jpeg?auto=compress&cs=tinysrgb&w=400',
       description: 'Mengembangkan potensi fisik dan sportivitas siswa melalui berbagai aktivitas olahraga.'
     },
