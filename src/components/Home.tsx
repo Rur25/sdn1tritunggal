@@ -131,36 +131,24 @@ const Home = () => {
         </div>
       </section>
 
-      {/* Latest News Section */}
-      <section className="section-padding bg-white">
-        <div className="max-w-7xl mx-auto">
-          <div className="flex items-center justify-between mb-12">
-            <div>
-              <h2 className="text-3xl md:text-4xl font-bold text-gray-800 mb-4">Berita Terbaru</h2>
-              <p className="text-xl text-gray-600">Informasi terkini dari SD 1 Tritunggal</p>
-            </div>
-            <button className="btn-primary">
-              Lihat Semua Berita
-            </button>
-          </div>
-
-          <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-8">
-            {latestNews.map((news, index) => (
-              <div key={news.id} className="card p-6 hover:scale-105 transition-transform duration-300 animate-slide-up" style={{ animationDelay: `${index * 0.1}s` }}>
-                <div className="bg-gradient-to-r from-blue-500 to-purple-600 h-48 rounded-xl mb-6 flex items-center justify-center">
-                  <BookOpen className="h-12 w-12 text-white" />
-                </div>
-                <div className="text-sm text-blue-600 font-medium mb-2">{news.date}</div>
-                <h3 className="text-xl font-bold text-gray-800 mb-3">{news.title}</h3>
-                <p className="text-gray-600 mb-4 leading-relaxed">{news.excerpt}</p>
-                <button className="text-blue-600 font-semibold hover:text-blue-800 transition-colors">
-                  Baca Selengkapnya →
-                </button>
-              </div>
-            ))}
-          </div>
-        </div>
-      </section>
+     {/* Latest News Section */}
+<section className="section-padding bg-white">
+  <div className="max-w-7xl mx-auto">
+    <div className="flex items-center justify-between mb-12">
+      <div>
+        <h2 className="text-3xl md:text-4xl font-bold text-gray-800 mb-4">
+          Berita Terbaru
+        </h2>
+        <p className="text-xl text-gray-600">
+          Informasi terkini dari SD 1 Tritunggal
+        </p>
+      </div>
+      <Link to="/news" className="btn-primary">
+        Lihat Semua Berita
+      </Link>
+    </div>
+  </div>
+</section>
     </div>
   );
 };
