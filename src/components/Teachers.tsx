@@ -10,7 +10,7 @@ const Teachers = () => {
       subject: 'Manajemen Sekolah',
       education: 'S1 Pendidikan Dasar',
       
-      image: 'https://images.pexels.com/photos/8471691/pexels-photo-8471691.jpeg?auto=compress&cs=tinysrgb&w=400',
+      image: '/Anisah.jpg',
       description: 'Memimpin dengan visi pendidikan yang holistik dan berfokus pada pengembangan karakter siswa.'
     },
     {
@@ -184,7 +184,10 @@ const Teachers = () => {
                     <span className="text-gray-500">Pendidikan:</span>
                     <span className="font-medium text-gray-700">{teacher.education}</span>
                   </div>
-                  
+                  <div className="flex justify-between text-sm">
+                    <span className="text-gray-500">Pengalaman:</span>
+                    <span className="font-medium text-gray-700">{teacher.experience}</span>
+                  </div>
                 </div>
 
                 {teacher.achievements && teacher.achievements.length > 0 && (
