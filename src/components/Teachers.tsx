@@ -65,12 +65,12 @@ const Teachers = () => {
     },
     {
       id: 7,
-      name: 'Ibu Maya Sari, S.Pd',
+      name: 'Ibu Ruhyati Ningsih, S.Pd',
       position: 'Guru Seni Budaya',
       subject: 'Seni Budaya',
       education: 'S1 Pendidikan Seni Rupa',
      
-      image: 'https://images.pexels.com/photos/8613202/pexels-photo-8613202.jpeg?auto=compress&cs=tinysrgb&w=400',
+      image: 'Ruhyati Ningsih.jpg',
       description: 'Menggali dan mengembangkan bakat seni siswa melalui berbagai medium dan teknik kreatif.'
     },
     {
