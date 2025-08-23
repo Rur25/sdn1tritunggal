@@ -12,7 +12,7 @@ const Home = () => {
   const latestNews = [
     {
       id: 1,
-      title: 'Penerimaan Siswa Baru 2024/2025',
+      title: 'Olimpiade Olahraga Siwa Nasional',
       excerpt: 'Pendaftaran dibuka mulai 1 Februari 2024 dengan berbagai program unggulan.',
       date: '15 Januari 2024',
     },
