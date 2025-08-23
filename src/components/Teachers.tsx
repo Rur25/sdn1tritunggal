@@ -61,7 +61,7 @@ const Teachers = () => {
       education: 'S1 Pendidikan',
      
       image: 'Srigati.jpg',
-      description: 'Mengembangkan potensi fisik dan sportivitas siswa melalui berbagai aktivitas olahraga.'
+      description: 'Spesialis dalam pembelajaran anak usia dini dengan pendekatan yang menyenangkan.'
     },
     {
       id: 7,
