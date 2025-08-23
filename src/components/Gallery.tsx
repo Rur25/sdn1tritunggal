@@ -7,7 +7,7 @@ const Gallery = () => {
   const galleryImages = [
     {
       id: 1,
-      src: 'https://images.pexels.com/photos/8613069/pexels-photo-8613069.jpeg?auto=compress&cs=tinysrgb&w=800',
+      src: 'Kegiatan ANBK.jpeg',
       alt: 'Kegiatan Belajar di Kelas',
       category: 'Pembelajaran',
       title: 'Suasana Pembelajaran Interaktif'
