@@ -69,9 +69,7 @@ const Teachers = () => {
       position: 'Guru Seni Budaya',
       subject: 'Seni Budaya',
       education: 'S1 Pendidikan Seni Rupa',
-      experience: '6 tahun',
-      achievements: ['Juara 1 Festival Seni Guru', 'Kurator Pameran Karya Siswa'],
-      email: 'maya.sari@sd1tritunggal.sch.id',
+     
       image: 'https://images.pexels.com/photos/8613202/pexels-photo-8613202.jpeg?auto=compress&cs=tinysrgb&w=400',
       description: 'Menggali dan mengembangkan bakat seni siswa melalui berbagai medium dan teknik kreatif.'
     },
