@@ -45,12 +45,12 @@ const Teachers = () => {
     },
     {
       id: 5,
-      name: 'Ibu Lisa Permata, S.Pd',
+      name: 'Ibu Zulistianah, S.Pd',
       position: 'Guru Bahasa Indonesia',
       subject: 'Bahasa Indonesia Kelas 3-6',
       education: 'S1 Pendidikan ',
      
-      image: 'https://images.pexels.com/photos/8613073/pexels-photo-8613073.jpeg?auto=compress&cs=tinysrgb&w=400',
+      image: 'Zulistianah.jpg',
       description: 'Passionate dalam mengembangkan kemampuan literasi dan menulis kreatif siswa.'
     },
     {
