@@ -30,7 +30,7 @@ const Teachers = () => {
       subject: 'Guru Kelas',
       education: 'S1 PGSD',
      
-      image: 'https://images.pexels.com/photos/8613072/pexels-photo-8613072.jpeg?auto=compress&cs=tinysrgb&w=400',
+      image: 'Titik Widowati.png',
       description: 'Ahli dalam pengembangan kreativitas anak melalui berbagai media pembelajaran inovatif.'
     },
     {
