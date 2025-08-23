@@ -38,7 +38,7 @@ const Teachers = () => {
       name: 'Dzawis Siyadah, S.Pd',
       position: 'Guru Matematika',
       subject: 'Matematika Kelas 4-6',
-      education: 'S1 Pendidikan Matematika',
+      education: 'S1 Pendidikan ',
      
       image: 'Dzawis Siyadah.jpg',
       description: 'Mengajar matematika dengan metode yang mudah dipahami dan aplikatif dalam kehidupan sehari-hari.'
