@@ -39,9 +39,7 @@ const Teachers = () => {
       position: 'Guru Matematika',
       subject: 'Matematika Kelas 4-6',
       education: 'S1 Pendidikan Matematika',
-      experience: '15 tahun',
-      achievements: ['Pembina Olimpiade Matematika', 'Juara 2 Guru Inovatif 2023'],
-      email: 'dedi.kurniawan@sd1tritunggal.sch.id',
+     
       image: 'https://images.pexels.com/photos/8613201/pexels-photo-8613201.jpeg?auto=compress&cs=tinysrgb&w=400',
       description: 'Mengajar matematika dengan metode yang mudah dipahami dan aplikatif dalam kehidupan sehari-hari.'
     },
