@@ -40,7 +40,7 @@ const Teachers = () => {
       subject: 'Matematika Kelas 4-6',
       education: 'S1 Pendidikan ',
      
-      image: 'Ibu Dzawis Siyadah.jpg',
+      image: 'Dzawis Siyadah.jpg',
       description: 'Mengajar matematika dengan metode yang mudah dipahami dan aplikatif dalam kehidupan sehari-hari.'
     },
     {
