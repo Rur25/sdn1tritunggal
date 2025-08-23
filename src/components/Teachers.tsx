@@ -47,7 +47,7 @@ const Teachers = () => {
       id: 5,
       name: 'Ibu Zulistianah, S.Pd',
       position: 'Guru Bahasa Indonesia',
-      subject: 'Bahasa Indonesia Kelas 3-6',
+      subject: 'Guru Kelas',
       education: 'S1 Pendidikan ',
      
       image: 'Zulistianah.jpg',
