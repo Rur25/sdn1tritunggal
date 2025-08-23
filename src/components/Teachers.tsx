@@ -18,7 +18,7 @@ const Teachers = () => {
       name: 'H. Mat Jais, S.Pd',
       position: 'Guru Kelas 1A',
       subject: 'Guru Kelas',
-      education: 'S1 Pendidikan Dasar',
+      education: 'S1 Pendidikan',
       
       image: '/H. Mat Jais.jpg',
       description: 'Spesialis dalam pembelajaran anak usia dini dengan pendekatan yang menyenangkan.'
@@ -28,7 +28,7 @@ const Teachers = () => {
       name: 'Titik Widowati, S.Pd',
       position: 'Guru Kelas 2B',
       subject: 'Guru Kelas',
-      education: 'S1 PGSD',
+      education: 'S1 Pendidikan',
      
       image: 'Titik Widowati.png',
       description: 'Ahli dalam pengembangan kreativitas anak melalui berbagai media pembelajaran inovatif.'
