@@ -10,7 +10,7 @@ const Teachers = () => {
       subject: 'Manajemen Sekolah',
       education: 'S1 Pendidikan Dasar',
       
-      image: '/Anisah.jpg',
+      image: '/Imron Habib, S.Ag., S.Pd',
       description: 'Memimpin dengan visi pendidikan yang holistik dan berfokus pada pengembangan karakter siswa.'
     },
     {
