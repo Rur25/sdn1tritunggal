@@ -18,7 +18,7 @@ const Home = () => {
     },
     {
       id: 2,
-      title: 'Prestasi Olimpiade Matematika',
+      title: 'Pramuka SDN 1 Tritunggal ',
       excerpt: 'Siswa SD 1 Tritunggal meraih juara 1 olimpiade matematika tingkat kabupaten.',
       date: '10 Januari 2024',
     },
