@@ -1,6 +1,6 @@
 import React from 'react';
 import { Star, Users, Award, BookOpen, ArrowRight } from 'lucide-react';
-
+import { Link } from "react-router-dom";
 const Home = () => {
   const stats = [
     { icon: Users, label: 'Siswa Aktif', value: '450+' },
