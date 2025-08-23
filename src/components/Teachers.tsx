@@ -16,7 +16,7 @@ const Teachers = () => {
     {
       id: 2,
       name: 'H. Mat Jais, S.Pd',
-      position: 'Guru Kelas 1A',
+      position: 'Guru Penjas',
       subject: 'Guru Kelas',
       education: 'S1 Pendidikan',
       
