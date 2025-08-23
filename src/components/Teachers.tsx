@@ -55,12 +55,12 @@ const Teachers = () => {
     },
     {
       id: 6,
-      name: 'Bapak Rio Prasetyo, S.Pd',
+      name: 'Srigati, S.Pd',
       position: 'Guru Olahraga',
       subject: 'Pendidikan Jasmani',
       education: 'S1 Pendidikan Jasmani',
      
-      image: 'https://images.pexels.com/photos/8471808/pexels-photo-8471808.jpeg?auto=compress&cs=tinysrgb&w=400',
+      image: 'Srigati.jpg',
       description: 'Mengembangkan potensi fisik dan sportivitas siswa melalui berbagai aktivitas olahraga.'
     },
     {
