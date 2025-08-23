@@ -80,7 +80,7 @@ const Teachers = () => {
       subject: 'Pendidikan Agama Islam',
       education: 'S1 Pendidikan Agama Islam',
      
-      image: 'https://images.pexels.com/photos/8613068/pexels-photo-8613068.jpeg?auto=compress&cs=tinysrgb&w=400',
+      image: 'Agung Prasetyo Utomo.jpg',
       description: 'Membimbing siswa dalam pemahaman agama dan pembentukan akhlak mulia.'
     },
     {
