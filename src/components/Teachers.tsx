@@ -26,7 +26,7 @@ const Teachers = () => {
     {
       id: 3,
       name: 'Titik Widowati, S.Pd',
-      position: 'Guru Kelas 2B',
+      position: 'Guru ',
       subject: 'Guru Kelas',
       education: 'S1 Pendidikan',
      
@@ -36,7 +36,7 @@ const Teachers = () => {
     {
       id: 4,
       name: 'Dzawis Siyadah, S.Pd',
-      position: 'Guru Matematika',
+      position: 'Guru',
       subject: 'Matematika Kelas 4-6',
       education: 'S1 Pendidikan ',
      
