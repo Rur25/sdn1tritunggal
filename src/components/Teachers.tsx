@@ -49,7 +49,7 @@ const Teachers = () => {
       position: 'Guru Bahasa Indonesia',
       subject: 'Bahasa Indonesia Kelas 3-6',
       education: 'S1 Pendidikan ',
-     ,
+     
       image: 'https://images.pexels.com/photos/8613073/pexels-photo-8613073.jpeg?auto=compress&cs=tinysrgb&w=400',
       description: 'Passionate dalam mengembangkan kemampuan literasi dan menulis kreatif siswa.'
     },
