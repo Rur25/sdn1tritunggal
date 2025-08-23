@@ -76,9 +76,9 @@ const Teachers = () => {
     {
       id: 8,
       name: 'Ibu Nur Aini, S.Pd',
-      position: 'Guru Agama Islam',
-      subject: 'Pendidikan Agama Islam',
-      education: 'S1 Pendidikan Agama Islam',
+      position: 'Guru Kelas 6',
+      subject: 'Pendidikan',
+      education: 'S1 Pendidikan ',
      
       image: 'Agung Prasetyo Utomo.jpg',
       description: 'Membimbing siswa dalam pemahaman agama dan pembentukan akhlak mulia.'
