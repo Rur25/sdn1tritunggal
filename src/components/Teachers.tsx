@@ -85,13 +85,11 @@ const Teachers = () => {
     },
     {
       id: 9,
-      name: 'Bapak Andi Setiawan, S.Kom',
-      position: 'Guru Komputer',
-      subject: 'Teknologi Informasi',
-      education: 'S1 Sistem Informasi',
-      experience: '5 tahun',
-      achievements: ['Certified IT Teacher', 'Pembina Klub Robotika'],
-      email: 'andi.setiawan@sd1tritunggal.sch.id',
+      name: 'Ibu Anisah, S.pd',
+      position: 'Guru ',
+      subject: 'Guru Kelas',
+      education: 'S1 Pendidikan',
+     
       image: 'https://images.pexels.com/photos/8613070/pexels-photo-8613070.jpeg?auto=compress&cs=tinysrgb&w=400',
       description: 'Memperkenalkan dunia teknologi dan coding kepada siswa dengan cara yang menyenangkan.'
     }
