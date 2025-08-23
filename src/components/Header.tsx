@@ -31,7 +31,7 @@ const Header: React.FC<HeaderProps> = ({ activeSection, setActiveSection, scroll
       <img 
         src="/logo.png" 
         alt="Logo SDN 1 Tritunggal" 
-        className="h-10 w-10 object-contain"
+        className="h-20 w-20 object-contain"
       />
     </div>
 
