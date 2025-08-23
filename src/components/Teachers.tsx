@@ -75,7 +75,7 @@ const Teachers = () => {
     },
     {
       id: 8,
-      name: 'Agung Prasetyo Utomo, S.Pd',
+      name: 'Bapak Agung Prasetyo Utomo, S.Pd',
       position: 'Guru Kelas 6',
       subject: 'Pendidikan',
       education: 'S1 Pendidikan ',
