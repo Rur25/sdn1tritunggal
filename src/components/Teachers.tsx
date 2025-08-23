@@ -57,8 +57,8 @@ const Teachers = () => {
       id: 6,
       name: 'Srigati, S.Pd',
       position: 'Guru',
-      subject: 'Pendidikan Jasmani',
-      education: 'S1 Pendidikan Jasmani',
+      subject: 'Guru Kelas',
+      education: 'S1 Pendidikan',
      
       image: 'Srigati.jpg',
       description: 'Mengembangkan potensi fisik dan sportivitas siswa melalui berbagai aktivitas olahraga.'
