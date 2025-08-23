@@ -7,7 +7,7 @@ const Gallery = () => {
   const galleryImages = [
     {
       id: 1,
-      src: '/public/Kegiatan ANBK.jpeg',
+      src: '/Kegiatan ANBK.jpeg',
       alt: 'Kegiatan ANBK',
       category: 'Pembelajaran',
       title: 'Suasana Pembelajaran Interaktif'
