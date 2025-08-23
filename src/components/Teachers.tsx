@@ -37,7 +37,7 @@ const Teachers = () => {
       id: 4,
       name: 'Ibu Dzawis Siyadah, S.Pd',
       position: 'Guru',
-      subject: 'Matematika Kelas 4-6',
+      subject: 'Guru Kelas',
       education: 'S1 Pendidikan ',
      
       image: 'Dzawis Siyadah.jpg',
