@@ -11,7 +11,7 @@ const Header: React.FC<HeaderProps> = ({ activeSection, setActiveSection, scroll
   const [isMenuOpen, setIsMenuOpen] = useState(false);
 
   const menuItems = [
-    { id: 'home', label: 'Beranda', icon: School },
+    { id: 'home', label: 'Beranda', icon: () => <img src="/icons/home.png" alt="home" className="w-5 h-5" /> },
     { id: 'profile', label: 'Profil Sekolah', icon: GraduationCap },
     { id: 'gallery', label: 'Galeri', icon: School },
     { id: 'news', label: 'Berita', icon: School },
