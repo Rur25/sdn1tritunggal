@@ -90,7 +90,7 @@ const Teachers = () => {
       subject: 'Guru Kelas',
       education: 'S1 Pendidikan',
      
-      image: 'https://images.pexels.com/photos/8613070/pexels-photo-8613070.jpeg?auto=compress&cs=tinysrgb&w=400',
+      image: 'Anisah.jpg',
       description: 'Memperkenalkan dunia teknologi dan coding kepada siswa dengan cara yang menyenangkan.'
     }
   ];
