@@ -20,7 +20,7 @@ const Teachers = () => {
       subject: 'Guru Kelas',
       education: 'S1 Pendidikan Dasar',
       
-      image: '/H. Mat Jais.jpg auto=compress&cs=tinysrgb&w=400'',
+      image: '/H. Mat Jais.jpg rgb&w=400'',
       description: 'Spesialis dalam pembelajaran anak usia dini dengan pendekatan yang menyenangkan.'
     },
     {
