@@ -13,7 +13,7 @@ const Home = () => {
     {
       id: 1,
       title: 'Olimpiade Olahraga Siwa Nasional',
-      excerpt: 'Pendaftaran dibuka mulai 1 Februari 2024 dengan berbagai program unggulan.',
+      excerpt: 'Siapa bilang sekolah di desa tak bisa menorehkan sejarah? Hari ini, SDN 1 Tritunggal membuktikan bahwa semangat, kerja keras, dan doa tulus mampu mengantarkan mereka berdiri di panggung tertinggi, meraih Juara CASN se-Kabupaten Babat.',
       date: '15 Januari 2024',
     },
     {
