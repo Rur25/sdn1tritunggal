@@ -35,12 +35,12 @@ const Teachers = () => {
     },
     {
       id: 4,
-      name: 'Bapak Dedi Kurniawan, S.Pd',
+      name: 'Dzawis Siyadah, S.Pd',
       position: 'Guru Matematika',
       subject: 'Matematika Kelas 4-6',
       education: 'S1 Pendidikan Matematika',
      
-      image: 'https://images.pexels.com/photos/8613201/pexels-photo-8613201.jpeg?auto=compress&cs=tinysrgb&w=400',
+      image: 'Dzawis Siyadah.jpg',
       description: 'Mengajar matematika dengan metode yang mudah dipahami dan aplikatif dalam kehidupan sehari-hari.'
     },
     {
