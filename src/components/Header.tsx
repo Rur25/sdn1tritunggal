@@ -24,13 +24,17 @@ const Header: React.FC<HeaderProps> = ({ activeSection, setActiveSection, scroll
       scrolled ? 'bg-white shadow-lg' : 'bg-white/95 backdrop-blur-sm'
     }`}>
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-        <div className="flex items-center justify-between h-20">
-          {/logo/}
-          <div className="flex items-center space-x-3">
-            <div className="bg-gradient-to-r from-blue-500 to-blue-600 p-2 rounded-xl">
-              
-              <School className="h-8 w-8 text-white" />
-            </div>
+       <div className="flex items-center justify-between h-20">
+  {/* Logo */}
+  <div className="flex items-center space-x-3">
+    <div className="p-2 rounded-xl">
+      <img 
+        src="/logo.png" 
+        alt="Logo SDN 1 Tritunggal" 
+        className="h-10 w-10 object-contain"
+      />
+    </div>
+
             <div>
               <h1 className="text-xl font-bold text-gray-800">SDN 1 Tritunggal</h1>
               <p className="text-xs text-gray-600">Sekolah Dasar Berkualitas</p>
