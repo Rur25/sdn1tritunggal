@@ -108,10 +108,10 @@ const Teachers = () => {
   ];
 
   const stats = [
-    { icon: Users, label: 'Total Guru', value: '25' },
-    { icon: GraduationCap, label: 'Guru S1', value: '23' },
-    { icon: Award, label: 'Guru Berprestasi', value: '8' },
-    { icon: Users, label: 'Guru Tersertifikasi', value: '20' },
+    { icon: Users, label: 'Total Guru', value: '9' },
+    { icon: GraduationCap, label: 'Guru S1', value: 'all' },
+    { icon: Award, label: 'Guru Berprestasi', value: 'all' },
+    { icon: Users, label: 'Guru Tersertifikasi', value: 'all' },
   ];
 
   return (
