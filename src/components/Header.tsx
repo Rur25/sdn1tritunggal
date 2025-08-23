@@ -28,7 +28,7 @@ const Header: React.FC<HeaderProps> = ({ activeSection, setActiveSection, scroll
           {}
           <div className="flex items-center space-x-3">
             <div className="bg-gradient-to-r from-blue-500 to-blue-600 p-2 rounded-xl">
-              <img src="/favico.png" alt="home" className="w-5 h-5" />
+              <img src="/public/favico.png" alt="home" className="w-5 h-5" />
               <School className="h-8 w-8 text-white" />
             </div>
             <div>
