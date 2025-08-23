@@ -7,14 +7,14 @@ const Gallery = () => {
   const galleryImages = [
     {
       id: 1,
-      src: 'Kegiatan ANBK.jpeg',
-      alt: 'Kegiatan Belajar di Kelas',
+      src: '/Kegiatan ANBK.jpeg',
+      alt: 'Kegiatan ANBK',
       category: 'Pembelajaran',
       title: 'Suasana Pembelajaran Interaktif'
     },
     {
       id: 2,
-      src: 'https://images.pexels.com/photos/8613072/pexels-photo-8613072.jpeg?auto=compress&cs=tinysrgb&w=800',
+      src: '/Isro' Mi'roj.jpeg',
       alt: 'Kegiatan Olahraga',
       category: 'Olahraga',
       title: 'Pelajaran Olahraga'
