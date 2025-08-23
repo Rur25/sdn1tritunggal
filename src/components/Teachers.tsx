@@ -48,7 +48,7 @@ const Teachers = () => {
       name: 'Ibu Lisa Permata, S.Pd',
       position: 'Guru Bahasa Indonesia',
       subject: 'Bahasa Indonesia Kelas 3-6',
-      education: 'S1 Pendidikan Bahasa Indonesia',
+      education: 'S1 Pendidikan ',
       experience: '10 tahun',
       achievements: ['Pembina Literasi Sekolah', 'Penulis Buku Cerita Anak'],
       email: 'lisa.permata@sd1tritunggal.sch.id',
