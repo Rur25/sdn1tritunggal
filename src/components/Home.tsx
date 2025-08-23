@@ -19,7 +19,7 @@ const Home = () => {
     {
       id: 2,
       title: 'Pramuka SDN 1 Tritunggal ',
-      excerpt: 'Siswa SD 1 Tritunggal meraih juara 1 olimpiade matematika tingkat kabupaten.',
+      excerpt: 'Di lapangan sekolah, para siswa tampak berbaris rapi dengan seragam pramuka lengkap. Wajah mereka memancarkan semangat dan keceriaan. Kegiatan dimulai dengan upacara pembukaan, lalu dilanjutkan dengan berbagai aktivitas seru seperti baris-berbaris, permainan kekompakan, serta latihan keterampilan tali-temali',
       date: '10 Januari 2024',
     },
     {
