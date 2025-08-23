@@ -21,7 +21,7 @@ const Teachers = () => {
       education: 'S1 Pendidikan',
       
       image: '/H. Mat Jais.jpg',
-      description: 'Spesialis dalam pembelajaran anak usia dini dengan pendekatan yang menyenangkan.'
+      description: 'Mengembangkan potensi fisik dan sportivitas siswa melalui berbagai aktivitas olahraga'
     },
     {
       id: 3,
