@@ -14,7 +14,7 @@ const Gallery = () => {
     },
     {
       id: 2,
-      src: '/Isro' Mi'roj.jpeg',
+      src: 'https://i.pinimg.com/736x/cf/a8/a9/cfa8a9524b3b62f6c9232c00739eeac3.jpg',
       alt: 'Kegiatan Olahraga',
       category: 'Olahraga',
       title: 'Pelajaran Olahraga'
