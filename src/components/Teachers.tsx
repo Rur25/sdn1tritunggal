@@ -79,9 +79,7 @@ const Teachers = () => {
       position: 'Guru Agama Islam',
       subject: 'Pendidikan Agama Islam',
       education: 'S1 Pendidikan Agama Islam',
-      experience: '9 tahun',
-      achievements: ['Da\'i Muda Berprestasi', 'Pembina Tahfidz Quran'],
-      email: 'nur.aini@sd1tritunggal.sch.id',
+     
       image: 'https://images.pexels.com/photos/8613068/pexels-photo-8613068.jpeg?auto=compress&cs=tinysrgb&w=400',
       description: 'Membimbing siswa dalam pemahaman agama dan pembentukan akhlak mulia.'
     },
