@@ -32,7 +32,9 @@ const Header: React.FC<HeaderProps> = ({ activeSection, setActiveSection, scroll
         src="/logo.png" 
         alt="Logo SDN 1 Tritunggal" 
         className="h-20 w-20 object-contain"
+      />
             <div className="p-2 rounded-xl cursor-pointer" onClick={() => setActiveSection('home')}>
+    </div>
     </div>
 
             <div>
