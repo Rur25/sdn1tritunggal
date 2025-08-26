@@ -13,7 +13,7 @@ const Gallery = () => {
     },
     {
       id: 2,
-      src: '/1.png',
+      src: 'https://i.pinimg.com/736x/17/a4/f5/17a4f542dc6fedff801f0217f1c79480.jpg',
       alt: 'Kegiatan Olahraga',
       title: 'Pelajaran Olahraga'
     },
