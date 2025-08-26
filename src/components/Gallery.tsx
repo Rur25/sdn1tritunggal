@@ -25,9 +25,9 @@ const Gallery = () => {
     },
     {
       id: 4,
-      src: '/Zulistianah.jpg',
-      alt: 'Perpustakaan',
-      title: 'Perpustakaan Modern'
+      src: 'https://i.pinimg.com/736x/07/9e/a0/079ea07198a156f3b6fdf68225030ad3.jpg',
+      alt: 'Pramuka',
+      title: 'Kegiatan Pramuka'
     }
     // Tambahkan lagi sesuai foto di public/
   ];
