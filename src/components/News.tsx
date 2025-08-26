@@ -38,7 +38,7 @@ const News = () => {
       id: 1,
       title: "Olimpiade Olahraga Siwa Nasional",
       excerpt:
-        "Siapa bilang sekolah di desa tak bisa menorehkan sejarah? Hari ini, SDN 1 Tritunggal membuktikan bahwa semangat, kerja keras, dan doa tulus mampu mengantarkan mereka berdiri di panggung tertinggi, meraih Juara CASN se-Kabupaten Babat.",
+        "Perayaan maulid nabi di SDN 1 Tritunggal berlangsung semarak. Lantunan shalawat menggema, menebarkan nuansa religius yang mendalam. Siswa dan guru larut dalam kebersamaan, menyatukan doa serta cinta kepada Rasulullah. Momentum maulid nabi ini menghadirkan keceriaan sekaligus menguatkan ikatan spiritual di lingkungan sekolah..",
       date: " Senin, 16 September 2024",
       time: "08:00",
       author: "Admin Sekolah",
