@@ -49,7 +49,7 @@ const Gallery = () => {
     },
      {
       id: 7,
-      src: 'https://i.pinimg.com/736x/cf/a8/a9/cfa8a9524b3b62f6c9232c00739eeac3.jpg',
+      src: 'https://i.pinimg.com/736x/7d/7b/03/7d7b03269bf1c7e7717feb30cda2a018.jpg',
       alt: 'event',
       title: 'Perayaan Maulid Nabi'
     }
