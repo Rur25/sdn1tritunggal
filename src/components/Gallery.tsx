@@ -30,8 +30,8 @@ const Gallery = () => {
       title: 'Kegiatan Pramuka'
     },
     {
-      id: 4,
-      src: 'https://i.pinimg.com/736x/07/9e/a0/079ea07198a156f3b6fdf68225030ad3.jpg',
+      id: 5,
+      src: 'https://i.pinimg.com/736x/89/39/75/893975c4a463071d408af130c1fe0b5f.jpg',
       alt: 'Pramuka',
       title: 'Kegiatan Pramuka'
     }
