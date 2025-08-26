@@ -51,7 +51,7 @@ const Gallery = () => {
       id: 7,
       src: 'https://i.pinimg.com/736x/7d/7b/03/7d7b03269bf1c7e7717feb30cda2a018.jpg',
       alt: 'event',
-      title: 'Perayaan Maulid Nabi'
+      title: 'Penerimaan Mahasiswa Billfath'
     }
     // Tambahkan lagi sesuai foto di public/
   ];
