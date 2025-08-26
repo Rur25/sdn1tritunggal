@@ -18,7 +18,7 @@ const News = () => {
       id: 1,
       title: "Penerimaan Mahasiswa KKN Dari Universitas Billfath",
       excerpt:
-        "Penerimaan mahasiswa Kuliah Kerja Nyata (KKN) dari Universitas Billfath menandai lahirnya momentum akademik yang penuh makna. Momen ini bukan sekadar ritual administratif, melainkan pintu masuk menuju pengabdian nyata. Mahasiswa diberangkatkan ke tengah masyarakat, membawa semangat muda, serta tanggung jawab akademik yang telah ditempa di bangku kuliah.",
+        "Penerimaan mahasiswa KKN Universitas Billfath di SDN 1 Tritunggal berlangsung meriah dan penuh makna. Para siswa menyambut dengan keceriaan, sementara guru melihatnya sebagai peluang kolaborasi akademik. Kehadiran mahasiswa menghadirkan atmosfer baru, memupuk semangat belajar, serta mempererat sinergi antara dunia pendidikan tinggi dan sekolah dasar.",
       date: "15 Januari 2024",
       time: "08:00",
       author: "Admin Sekolah",
