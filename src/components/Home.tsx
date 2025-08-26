@@ -1,4 +1,5 @@
 import React from 'react';
+import { Users, BookOpen, Award, Star, ArrowRight } from 'lucide-react';
 import { Link } from "react-router-dom";
 interface HomeProps {
   setActiveSection?: (section: string) => void;
