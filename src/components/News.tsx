@@ -29,7 +29,7 @@ const News = () => {
       title: "Olimpiade Olahraga Siwa Nasional",
       excerpt:
         "Siapa bilang sekolah di desa tak bisa menorehkan sejarah? Hari ini, SDN 1 Tritunggal membuktikan bahwa semangat, kerja keras, dan doa tulus mampu mengantarkan mereka berdiri di panggung tertinggi, meraih Juara CASN se-Kabupaten Babat.",
-      date: "15 Januari 2024",
+      date: "02 Agustus 2024",
       time: "08:00",
       author: "Admin Sekolah",
       image: "https://i.pinimg.com/736x/68/4f/61/684f612f7532cf4ac28b29cd8c8a6feb.jpg",
