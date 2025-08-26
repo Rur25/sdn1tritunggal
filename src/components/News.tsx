@@ -18,7 +18,7 @@ const News = () => {
       id: 1,
       title: "Penerimaan Mahasiswa KKN Dari Universitas Billfath",
       excerpt:
-        "Penerimaan mahasiswa KKN Universitas Billfath di SDN 1 Tritunggal berlangsung meriah dan penuh makna. Para siswa menyambut dengan keceriaan, sementara guru melihatnya sebagai peluang kolaborasi akademik. Kehadiran mahasiswa menghadirkan atmosfer baru, memupuk semangat belajar, serta mempererat sinergi antara dunia pendidikan tinggi dan sekolah dasar.",
+        "Penerimaan mahasiswa KKN Universitas Billfath di SDN 1 Tritunggal disambut penuh antusias. Kehadiran mereka menjadi katalis inspirasi baru bagi siswa dan guru. Dengan semangat akademik yang segar, mahasiswa KKN menghadirkan program edukatif, membangun kolaborasi harmonis, serta menanamkan nilai pengabdian di lingkungan sekolah dasar tersebut",
       date: "15 Januari 2024",
       time: "08:00",
       author: "Admin Sekolah",
