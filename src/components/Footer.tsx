@@ -12,7 +12,7 @@ const Footer = () => {
 
 
   const informationLinks = [
-    { name: 'Berita Terbaru', href: '#news' },
+    { name: 'Berita Terbaru', href: '#' },
     { name: 'Pengumuman', href: '#news' },
     { name: 'Galeri Kegiatan', href: '#gallery' },
     { name: 'Download', href: '#' },
