@@ -9,7 +9,7 @@ const Gallery = () => {
       id: 1,
       src: '/Kegiatan ANBK.jpeg',
       alt: 'Kegiatan ANBK',
-      title: 'Suasana Pembelajaran Interaktif'
+      title: 'Suasana Ujian ANBK'
     },
     {
       id: 2,
