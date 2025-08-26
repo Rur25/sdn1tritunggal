@@ -9,7 +9,13 @@ const Footer = () => {
     { name: 'Prestasi', href: '#' },
   ];
 
-
+  // Tambahkan ini!
+  const academicLinks = [
+    { name: 'Kurikulum', href: '#' },
+    { name: 'Ekstrakurikuler', href: '#' },
+    { name: 'Kalender Akademik', href: '#' },
+    { name: 'Jadwal Pelajaran', href: '#' },
+  ];
 
   const informationLinks = [
     { name: 'Berita Terbaru', href: '#' },
@@ -24,6 +30,7 @@ const Footer = () => {
     { icon: Twitter, href: 'https://twitter.com/sd1tritunggal', color: 'hover:bg-blue-400' },
     { icon: Youtube, href: 'https://youtube.com/@sd1tritunggal', color: 'hover:bg-red-600' },
   ];
+
 
   return (
     <footer className="bg-gradient-to-r from-gray-900 to-blue-900 text-white">
