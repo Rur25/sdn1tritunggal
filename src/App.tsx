@@ -25,7 +25,7 @@ function App() {
   const renderSection = () => {
     switch (activeSection) {
       case 'home':
-        return <Home />;
+        return <Home setActiveSection={setActiveSection} />;
       case 'profile':
         return <Profile />;
       case 'gallery':

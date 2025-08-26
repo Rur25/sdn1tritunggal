@@ -1,7 +1,10 @@
 import React from 'react';
-import { Star, Users, Award, BookOpen, ArrowRight } from 'lucide-react';
 import { Link } from "react-router-dom";
-const Home = () => {
+interface HomeProps {
+  setActiveSection?: (section: string) => void;
+}
+
+const Home: React.FC<HomeProps> = ({ setActiveSection }) => {
   const stats = [
     { icon: Users, label: 'Siswa Aktif', value: '450+' },
     { icon: BookOpen, label: 'Program Belajar', value: '20+' },
@@ -143,9 +146,12 @@ const Home = () => {
           Informasi terkini dari SD 1 Tritunggal
         </p>
       </div>
-      <Link to="/news" className="btn-primary">
+      <button 
+        onClick={() => setActiveSection?.('news')} 
+        className="btn-primary"
+      >
         Lihat Semua Berita
-      </Link>
+      </button>
     </div>
   </div>
 </section>
