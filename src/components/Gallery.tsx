@@ -34,6 +34,12 @@ const Gallery = () => {
       src: 'https://i.pinimg.com/736x/89/39/75/893975c4a463071d408af130c1fe0b5f.jpg',
       alt: 'Paguyuban',
       title: 'Paguyuban Wali Santri'
+    },
+     {
+      id: 6,
+      src: 'https://i.pinimg.com/736x/cf/a8/a9/cfa8a9524b3b62f6c9232c00739eeac3.jpg',
+      alt: 'Paguyuban',
+      title: 'Paguyuban Wali Santri'
     }
     // Tambahkan lagi sesuai foto di public/
   ];
