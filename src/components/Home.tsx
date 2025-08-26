@@ -53,10 +53,7 @@ const Home: React.FC<HomeProps> = ({ setActiveSection }) => {
                 dalam lingkungan yang menyenangkan dan kondusif.
               </p>
               <div className="flex flex-col sm:flex-row gap-4">
-                <button className="btn-primary bg-yellow-500 hover:bg-yellow-600 text-gray-800">
-                  Daftar Sekarang
-                  <ArrowRight className="ml-2 h-5 w-5 inline" />
-                </button>
+                
                 <button className="btn-secondary bg-transparent border-2 border-white text-white hover:bg-white hover:text-blue-600">
                   Pelajari Lebih Lanjut
                 </button>
