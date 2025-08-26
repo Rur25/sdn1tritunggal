@@ -12,7 +12,7 @@ const News = () => {
       date: "15 Januari 2024",
       time: "08:00",
       author: "Admin Sekolah",
-      image: "/1.png",
+      image: "https://i.pinimg.com/736x/68/4f/61/684f612f7532cf4ac28b29cd8c8a6feb.jpg",
     },
     // ...berita lain
   ];
