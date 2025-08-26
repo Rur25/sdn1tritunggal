@@ -42,13 +42,13 @@ const Gallery = () => {
       title: 'Perayaan Maulid Nabi'
     },
     {
-      id: 6,
+      id: 7,
       src: 'https://i.pinimg.com/736x/6c/2b/9b/6c2b9bfbaff98eb72a7bf674c9cdd62e.jpg',
       alt: 'event',
-      title: 'Perayaan Maulid Nabi'
+      title: 'Senam Bersama'
     },
      {
-      id: 7,
+      id: 8,
       src: 'https://i.pinimg.com/736x/7d/7b/03/7d7b03269bf1c7e7717feb30cda2a018.jpg',
       alt: 'event',
       title: 'Penerimaan Mahasiswa Billfath'
