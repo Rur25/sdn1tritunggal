@@ -14,8 +14,8 @@ const Gallery = () => {
     {
       id: 2,
       src: 'https://i.pinimg.com/736x/17/a4/f5/17a4f542dc6fedff801f0217f1c79480.jpg',
-      alt: 'Kegiatan Olahraga',
-      title: 'Pelajaran Olahraga'
+      alt: 'MPLS SDN 1 Tritunggal',
+      title: 'Pengenalan lingkungan Sekolah'
     },
     {
       id: 3,
