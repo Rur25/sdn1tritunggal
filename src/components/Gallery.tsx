@@ -33,7 +33,7 @@ const Gallery = () => {
       id: 5,
       src: 'https://i.pinimg.com/736x/89/39/75/893975c4a463071d408af130c1fe0b5f.jpg',
       alt: 'Pramuka',
-      title: 'Kegiatan Pramuka'
+      title: 'Paguyuban Wali Santri'
     }
     // Tambahkan lagi sesuai foto di public/
   ];
