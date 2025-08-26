@@ -282,7 +282,7 @@ const Contact = () => {
                 {/* Google Maps Embed */}
                 <div className="mb-6">
                   <iframe
-                    src="https://www.google.com/maps/place/SD+Negeri+1+Tritunggal/@-7.0983058,112.2543499,17.48z/data=!4m15!1m8!3m7!1s0x2e77f32576702b31:0x4fdce865797fe7b4!2sSD+Negeri+1+Tritunggal!8m2!3d-7.0982796!4d112.2569892!10e1!16s%2Fg%2F1hm400pkx!3m5!1s0x2e77f32576702b31:0x4fdce865797fe7b4!8m2!3d-7.0982796!4d112.2569892!16s%2Fg%2F1hm400pkx?entry=ttu&g_ep=EgoyMDI1MDgxOS4wIKXMDSoASAFQAw%3D%3D"
+                    src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3959.2389972833225!2d112.2544089091354!3d-7.098274269560109!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e77f32576702b31%3A0x4fdce865797fe7b4!2sSD%20Negeri%201%20Tritunggal!5e0!3m2!1sid!2sid!4v1756234000955!5m2!1sid!2sid" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
                     width="100%"
                     height="300"
                     style={{ border: 0 }}
