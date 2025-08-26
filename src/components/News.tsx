@@ -36,7 +36,7 @@ const News = () => {
     },
      {
       id: 1,
-      title: "Olimpiade Olahraga Siwa Nasional",
+      title: "Perayaan Maulid Nabi SAW",
       excerpt:
         "Perayaan maulid nabi di SDN 1 Tritunggal berlangsung semarak. Lantunan shalawat menggema, menebarkan nuansa religius yang mendalam. Siswa dan guru larut dalam kebersamaan, menyatukan doa serta cinta kepada Rasulullah. Momentum maulid nabi ini menghadirkan keceriaan sekaligus menguatkan ikatan spiritual di lingkungan sekolah..",
       date: " Senin, 16 September 2024",
