@@ -9,12 +9,7 @@ const Footer = () => {
     { name: 'Prestasi', href: '#profile' },
   ];
 
-  const academicLinks = [
-    { name: 'Kurikulum', href: '#' },
-    { name: 'Ekstrakurikuler', href: '#' },
-    { name: 'Kalender Akademik', href: '#' },
-    { name: 'Jadwal Pelajaran', href: '#' },
-  ];
+
 
   const informationLinks = [
     { name: 'Berita Terbaru', href: '#news' },
