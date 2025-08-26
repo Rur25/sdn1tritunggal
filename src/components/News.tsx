@@ -18,7 +18,7 @@ const News = () => {
       id: 1,
       title: "Penerimaan Mahasiswa KKN Dari Universitas Billfath",
       excerpt:
-        "Siapa bilang sekolah di desa tak bisa menorehkan sejarah? Hari ini, SDN 1 Tritunggal membuktikan bahwa semangat, kerja keras, dan doa tulus mampu mengantarkan mereka berdiri di panggung tertinggi, meraih Juara CASN se-Kabupaten Babat.",
+        "Penerimaan mahasiswa Kuliah Kerja Nyata (KKN) dari Universitas Billfath menandai lahirnya momentum akademik yang penuh makna. Momen ini bukan sekadar ritual administratif, melainkan pintu masuk menuju pengabdian nyata. Mahasiswa diberangkatkan ke tengah masyarakat, membawa semangat muda, serta tanggung jawab akademik yang telah ditempa di bangku kuliah.",
       date: "15 Januari 2024",
       time: "08:00",
       author: "Admin Sekolah",
