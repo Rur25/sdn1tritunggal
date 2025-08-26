@@ -29,10 +29,10 @@ const News = () => {
       title: "Ice Breaking Bersama Kakak KKN",
       excerpt:
         "Suasana Ice Breaking mahasiswa KKN Universitas Billfath di SDN 1 Tritunggal berlangsung semarak. Tawa riang siswa memenuhi seisi kelas, menciptakan energi positif sejak awal pertemuan. Permainan interaktif menjembatani kedekatan, menghadirkan keakraban, serta menumbuhkan rasa percaya diri. Momentum ini menjadi fondasi indah bagi kolaborasi berkelanjutan",
-      date: "02 Agustus 2024",
+      date: "07 Agustus 2024",
       time: "08:00",
       author: "Admin Sekolah",
-      image: "https://i.pinimg.com/736x/68/4f/61/684f612f7532cf4ac28b29cd8c8a6feb.jpg",
+      image: "https://i.pinimg.com/736x/9e/3c/58/9e3c58f09074246150485c87f2e9b822.jpg",
     },
      {
       id: 1,
