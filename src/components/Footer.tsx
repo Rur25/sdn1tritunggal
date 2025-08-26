@@ -3,10 +3,10 @@ import { School, Mail, Phone, MapPin, Facebook, Instagram, Twitter, Youtube, Hea
 
 const Footer = () => {
   const quickLinks = [
-    { name: 'Profil Sekolah', href: '#profile' },
-    { name: 'Visi & Misi', href: '#profile' },
-    { name: 'Fasilitas', href: '#profile' },
-    { name: 'Prestasi', href: '#profile' },
+    { name: 'Profil Sekolah', href: '#' },
+    { name: 'Visi & Misi', href: '#' },
+    { name: 'Fasilitas', href: '#' },
+    { name: 'Prestasi', href: '#' },
   ];
 
 
