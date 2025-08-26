@@ -19,7 +19,7 @@ const Gallery = () => {
     },
     {
       id: 3,
-      src: '/Srigati.jpg',
+      src: 'https://i.pinimg.com/736x/68/4f/61/684f612f7532cf4ac28b29cd8c8a6feb.jpg',
       alt: 'Kegiatan Seni',
       title: 'Workshop Seni dan Kreativitas'
     },
